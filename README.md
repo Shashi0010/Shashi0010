@@ -8,6 +8,9 @@
 
 - 📫 How to reach me 9063402379[WhatsApp]
 
+-  [![trophy](https://github-profile-trophy.vercel.app/?username=Shashi0010)](https://github.com/Shashi0010/github-profile-trophy)
+
+
 <!---
 Shashi0010/Shashi0010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
